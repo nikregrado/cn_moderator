@@ -1,0 +1,18 @@
+Metadata-Version: 1.1
+Name: moderator
+Version: 0.0.1
+Summary: Moderator AI app: UI and API
+Home-page: https://github.com/jettify/moderator.ai
+Author: Nikolay Novik
+Author-email: nickolainovik@gmail.com
+License: Apache 2
+Description: UNKNOWN
+Platform: POSIX
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Intended Audience :: Developers
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Operating System :: POSIX
+Classifier: Development Status :: 3 - Alpha
+Classifier: Framework :: AsyncIO

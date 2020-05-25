@@ -1,0 +1,7 @@
+aiohttp
+trafaret
+pyyaml
+numpy
+pandas
+scikit-learn
+scipy
